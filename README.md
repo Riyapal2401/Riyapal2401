@@ -12,7 +12,6 @@
 ---
 
 ### 🚀 What I'm Currently Working On  
-- 🤖 **Befriend** — Emotional Support Chatbot with Stress Prediction ML Model  
 - 🎵 **Music Stream Analysis** — Data-driven insights into streaming behavior  
 - 🧩 Exploring NLP & AI model fine-tuning  
 
